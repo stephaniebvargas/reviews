@@ -1,0 +1,6 @@
+body {background:#f1f1f1; font:18px/24px Arial, Helvetica, sans-serif; color:#333;}
+.container {width:50%; margin:0 auto; display:flex; flex-direction:column;}
+h1 {text-align: center; margin:20px auto;}
+.button-container {display:block; width:auto; margin:20px auto; text-align:center;}
+#value {font-size:3rem; display:block; width:80%; margin:0 auto; text-align:center;}
+.btn {background:transparent; border:2px solid #333; border-radius:4px; color:#333; padding:10px 15px; text-transform:uppercase; font-weight:bold; margin:5px;}
